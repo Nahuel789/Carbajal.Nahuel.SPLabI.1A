@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1606308364 source:c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	<string.h>
+
+1604702600 c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\utn.h
+
+1606313977 source:c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"utn.h"
+
+1606313630 c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\linkedlist.h
+
+1606313630 c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\bicicletas.h
+	"LinkedList.h"
+
+1606313939 source:c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"bicicletas.h"
+	"menu.h"
+	<time.h>
+	"utn.h"
+
+1606313801 source:c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\bicicletas.c
+	"bicicletas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1606306477 source:c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\menu.c
+	"menu.h"
+	"utn.h"
+	<stdio.h>
+
+1606313628 c:\users\roberto\desktop\carbajal.nahuel.splabi.1a\menu.h
+
